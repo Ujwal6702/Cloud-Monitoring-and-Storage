@@ -1,6 +1,8 @@
 # Cloud Monitoring and Storage
 
-Utilizing ngrok and socket programming enhances the efficiency and security of cloud systems. Ngrok's secure tunneling enables remote monitoring and access to cloud resources without compromising internal networks. Socket programming facilitates real-time data retrieval and analysis between monitoring tools and cloud instances, aiding in proactive issue resolution. In cloud storage systems, ngrok ensures secure access to remote storage resources, while socket programming optimizes data transfer and synchronization between clients and servers. By leveraging ngrok and socket programming, cloud environments benefit from robust monitoring capabilities and streamlined storage management, enhancing operational efficiency and security.
+Combining ngrok with socket programming significantly enhances the efficiency and security of cloud systems. Ngrok's secure tunneling capability allows for remote monitoring and access to cloud resources without compromising internal networks, ensuring seamless management and proactive issue resolution in real-time. Socket programming complements this by facilitating real-time data retrieval and analysis between monitoring tools and cloud instances, optimizing data transfer and synchronization between clients and servers.
+
+Additionally, using pyshark for packet sniffing enables the identification of websites visited by users, providing valuable insights that are securely transmitted to our server for comprehensive oversight. This approach ensures the company remains informed about user activities while maintaining data security. Socket programming further supports cloud storage by enabling secure data transfer to alternate servers, ensuring robust management and enhancing operational efficiency within cloud environments.
 
 
 ## How to run?
